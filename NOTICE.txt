@@ -1,0 +1,24 @@
+umabot is licensed under GPL-3.0 (see LICENSE). That license covers the
+source code in this repository only.
+
+Images in templates/ are screenshots or crops of Umamusume: Pretty
+Derby and are copyright Cygames, Inc. They are not covered by GPL-3.0.
+They are included only so the tool can run, and will be removed on request
+from the rights holder.
+
+circle_single.png and circle_double.png are game-UI images, copyright
+Cygames, Inc. They are not covered by GPL-3.0 and are included only so
+skill_scanner.py can run, and will be removed on request from the rights
+holder.
+
+Fonts in fonts/ (Nunito) are licensed under the SIL Open Font License 1.1
+(see fonts/OFL.txt).
+
+skills.db contains skill names, costs and scores for Umamusume: Pretty
+Derby. It contains no game text, descriptions or artwork. Its contents are
+game data, not covered by GPL-3.0, and will be removed on request from the
+rights holder. This project is not affiliated with or endorsed by Cygames, Inc.
+
+This project is not affiliated with or endorsed by Cygames, Inc.
+Using automation tools with the game may violate its terms of service and
+may result in account suspension.

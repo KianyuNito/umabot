@@ -1,0 +1,17 @@
+[project]
+name = "umabot"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "darkdetect>=0.8.0",
+    "keyboard>=0.13.5",
+    "mss>=10.2.0",
+    "numpy>=2.5.5",
+    "opencv-python>=5.1.0.95",
+    "pillow>=13.0.0",
+    "pyautogui>=0.9.54",
+    "pyside6>=6.12.0",
+    "pywin32>=312",
+    "sv-ttk>=2.6.1",
+    "winocr>=0.0.15",
+]

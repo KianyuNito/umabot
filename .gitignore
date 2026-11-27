@@ -1,0 +1,12 @@
+__pycache__/
+graphify-out/
+*.zip
+*.db
+!skills.db
+debug/
+records/
+carats.csv
+build/
+.venv/
+dist/
+*.exe
