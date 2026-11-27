@@ -27,7 +27,15 @@ The game must be open on the skill-learn screen. See `python skill_scanner.py -h
 
 ## Building the exe
 
-_To be added after build.bat is updated for uv._
+Run `build.bat`. It installs dependencies with uv, builds a single-file exe with PyInstaller, and copies `templates/` and `skills.db` next to it.
+
+The result is in `dist/`:
+
+- `umabot.exe`
+- `templates/`
+- `skills.db`
+
+Keep all three in the same folder when you move or share the build.
 
 ## Project structure
 
